@@ -1,0 +1,57 @@
+.banner {
+	background-image: url(../../images/m1.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	height: 700px;
+}
+
+.nom {
+	width: 900px;
+	height: 110px;
+
+	background: white;
+	opacity: 0.8;
+	border-radius: 50px;
+
+	font-size: 100px;
+	font-family: "Gill Sans Extrabold", sans-serif;
+	color: black;
+	text-align: center;
+	font-style: oblique 10deg;
+
+
+	position: absolute;
+	left: 510px;
+	top: 500px;
+
+}
+
+.job {
+
+	width: 800px;
+	height: 130px;
+
+	background: rgb(255,255,255);
+	opacity: 0.8;
+	border-radius: 50px;
+
+	font-size: 50px;
+	color: black;
+	text-align: center;
+	font-style: oblique 10deg;
+
+	position: absolute;
+	left: 560px;
+	top: 700px;
+}
+
+.image-circle {
+	position: absolute;
+	top: 50px;
+	left: 810px;
+
+	border-radius: 50%;
+	box-shadow: 5px 5px 5px white;
+}
